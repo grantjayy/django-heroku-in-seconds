@@ -6,6 +6,7 @@ _NOTE: Originally made for Unix-like systems. Windows will have some changes. Se
 
 0. Download repository from source
 1. Create new django project
+
    `mdkir myapp`
 
    `cd myapp`

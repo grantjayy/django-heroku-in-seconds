@@ -46,9 +46,7 @@ _NOTE: Originally made for Unix-like systems. Windows will have some changes. Se
 
     `heroku create APP_NAME`
 
-11. Set SECRET_KEY in Heroku
-
-    `heroku config:set SECRET_KEY=YOUR_KEY`
+11. Set SECRET_KEY in Heroku Web App
 
 12. Deploy app to Heroku
 
